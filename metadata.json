@@ -1,0 +1,6 @@
+{
+  "name": "Student OS",
+  "description": "High-performance academic operating system for university scholars with GPA simulator, timetable command center, and course vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
